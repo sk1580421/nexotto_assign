@@ -1,0 +1,1 @@
+export const api = 'https://run.mocky.io/v3'

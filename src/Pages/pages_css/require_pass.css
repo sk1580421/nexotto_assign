@@ -1,0 +1,108 @@
+.passbackground>h5{
+   
+        color: rgb(255, 0, 0);
+        margin: 0 auto;
+        margin-bottom: 10px;
+      
+      
+}
+.passbackground{
+    
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background: url("https://img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?size=626&ext=jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100vw;
+}
+.pass{
+    width: 40%;
+    max-width: 100%;
+    margin: 0 auto;
+    box-shadow: 2px 2px 20px 1px rgb(0, 0, 0); 
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 30px;
+
+
+}
+.nexotto{
+    margin: 10px auto;
+    
+    width: fit-content;
+}
+
+.nexotto>span{
+    font-weight: 1000 ;
+    font-size: 40px;
+    font-family: cursive;
+    color: rgba(236, 4, 236, 0.986)
+}
+
+.passsubtitle{
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0 auto;
+    width: 90%;
+    padding-left: 17px;
+    color: white;
+    
+    
+}
+
+.form{
+    width: 90% !important;
+    margin: auto;
+    padding: 10px 20px;
+    color: white;
+    
+}
+
+.mb-3{
+    font-weight: bold;
+    margin: 10px 0 !important;
+}
+.formlabel{
+   margin: 10px 0 !important;
+   font-size: large;
+}
+
+.forgetemail{
+    margin-right: 62% !important;
+}
+
+
+
+.donthaveaccount{
+    width: fit-content;
+    color: white !important;
+}
+.donthaveaccount>div{
+    font-weight: 500;
+    color:gray
+
+}
+
+.footer{
+display: flex;
+justify-content: space-between;
+margin: 30px auto;
+}
+
+.input:hover{
+    box-shadow: 0px 0px 5px 2px rgb(255, 255, 255);
+}
+
+.text-muted{
+ color:rgb(172, 176, 180) !important;
+}
+
+.loginbutton:hover{
+    box-shadow: 0px 0px 5px 2px rgb(255, 255, 255) !important;
+
+}
+
